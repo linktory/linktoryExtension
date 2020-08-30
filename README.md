@@ -1,13 +1,13 @@
-# bookmarking is awesome but chrome bookmark is fucked !
-We have developed linktory extension because we think chrome bookmark feature not enoght .
+# bookmarking is awesome but chrome's bookmark is fucked !
+We have developed linktory extension because we think chrome's bookmark feature is not enoght.
 
 
 The motivation behind creating linktory was:
-1. add more description than just a url when we want bookmark a website.
+1. to add more description than just a url when we are bookmarking a website.
 
 2. being able to search among our bookmarks.
 
-3. create list of awesome links and share it among our friend and Colleague.
+3. to create some lists of awesome links and share them among our friends and Colleagues.
 
 
 ## Features
