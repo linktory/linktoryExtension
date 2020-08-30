@@ -1,17 +1,17 @@
-# React Chrome Extension
-We have open sourced the boilerplate of chrome extension with ReactJs using inject page strategy. Read [detailed blog](https://medium.com/@satendra02/create-chrome-extension-with-reactjs-using-inject-page-strategy-137650de1f39)
+# bookmarking is awesome but chrome bookmark is fucked !
+We have developed linktory extension because we think chrome bookmark feature not enoght .
 
 
-The boilerplate is to quickly create a chrome extension using ReactJs, The motivation behind creating a boilerplate was:
-1. Instead of chrome's ready-made popup, We wanted our own page injected into DOM as a sidebar for better UX.
+The motivation behind creating linktory was:
+1. add more description than just a url when we want bookmark a website.
 
-2. We wanted to use ReactJs for the Component-based approach, Routing, and its build mechanism.
+2. being able to search among our bookmarks.
 
-3. We need to make sure that the extension CSS should not conflict with the host page styles in any case.
+3. create list of awesome links and share it among our friend and Colleague.
 
 
 ## Features
-
+- use [React Chrome Extension](https://github.com/satendra02/react-chrome-extension) boilerplate
 - Used ReactJs to write chrome extension
 - Injecting extension to host page as content script
 - Utilized the Chrome messaging API
@@ -23,9 +23,9 @@ The boilerplate is to quickly create a chrome extension using ReactJs, The motiv
 Clone repo
 
 ```
-git clone https://github.com/satendra02/react-chrome-extension.git
+git clone https://github.com/linktory/linktoryExtension.git
 ```
-Go to `react-chrome-extension` directory run
+Go to `linktoryExtension` directory run
 
 ```
 yarn install
@@ -58,9 +58,9 @@ When you go to any website and click on extension icon, injected page will toggl
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/satendra02/react-chrome-extension/. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/linktory/linktoryExtension.git. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
 
-The repo is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The repo is available as open source under the terms of the [GPL-3.0 License](https://opensource.org/licenses/GPL-3.0).
