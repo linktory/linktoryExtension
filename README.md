@@ -3,7 +3,7 @@ We have developed linktory extension because we think chrome's bookmark feature 
 
 
 The motivation behind creating linktory was:
-1. to add more description than just a url when we are bookmarking a website.
+1. to add more description than just a URL when we are bookmarking a website.
 
 2. being able to search among our bookmarks.
 
